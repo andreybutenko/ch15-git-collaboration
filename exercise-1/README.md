@@ -16,6 +16,7 @@ Here, we'll see how multiple people contributing to the same project can prevent
 
 - **Person 1** should edit the `README.md` file by adding a line that describes the project
 - **Person 1** should then `add` and `commit` those changes, then push those changes up to GitHub (make sure to close issue 1 with a commit message)
+this is the new line niva added!
 - **Person 2** should then create a _new file_ called `exercise.R`, and add a line of code to that file (whatever you want: `x <- 1`).
 - **Person 2** should then `add` and `commit` their changes, and attempt pushing up to GitHub (make sure to close issue 2 with a commit message)
 
